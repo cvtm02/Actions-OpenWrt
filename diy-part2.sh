@@ -8,7 +8,6 @@
 # https://github.com/P3TERX/Actions-OpenWrt
 # File name: diy-part2.sh
 # Description: OpenWrt DIY script part 2 (After Update feeds)
-git clone -b master https://github.com/kenzok8/openwrt-packages.git
 git clone https://github.com/liuran001/openwrt-packages package
 
 # Modify default IP
